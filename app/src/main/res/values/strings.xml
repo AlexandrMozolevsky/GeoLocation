@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textViewMapsActivityTaxiWindowTaxiTitle">Taxi information</string>
+    <string name="textViewMapsActivityTaxiWindowTaxiName">Taxi name</string>
+    <string name="textViewMapsActivityTaxiWindowCost">Cost per km</string>
+    <string name="textViewMapsActivityTaxiWindowDriverName">Driver name</string>
+    <string name="textViewMapsActivityTaxiWindowUserTitle">My information</string>
+    <string name="additionalMapsActivityUserAreYouHere">Are you here: </string>
+
+    <string name="buttonMapsActivityTaxiWindowRefreshMyPosition">Refresh my position</string>
+    <string name="buttonMapsActivityTaxiWindowGetTaxi">GET TAXI</string>
+
+    <string name="editTextMapsActivityTaxiWindowUserPhoneNumber">Phone number</string>
+</resources>
